@@ -1,0 +1,14 @@
+# Ignore massive benchmark files (>100MB)
+utf32_1M_binary.md
+utf34_1M_binary.md
+utf34_base100_1M_binary.md
+utf36_1M_binary.md
+utf38_1M_binary.md
+
+# Compiled binaries and cache
+__pycache__/
+*.pyc
+utf34_bench
+utf34_bench_fast
+._*
+.DS_Store
